@@ -1,0 +1,41 @@
+User-agent: *
+Allow: /
+
+# VARSITYCHEERGEAR — owned by Valerie Stewart — Kansas City, MO
+# varsitycheergear.com — all pages are public, no sign-in required
+
+Allow: /
+Allow: /index.html
+Allow: /about
+Allow: /contact
+Allow: /build-your-dress
+Allow: /recolor-dresses
+Allow: /two-piece-uniforms
+Allow: /catalog
+Allow: /school-directory
+Allow: /shop
+Allow: /cart
+Allow: /account
+Allow: /kimmies-the-cutaway
+Allow: /kimmies-account
+Allow: /zynzy-bugs
+Allow: /zynzy-account
+Allow: /zynzy-about
+Allow: /mellys-dancewear
+Allow: /melly-account
+Allow: /billy-starck
+Allow: /latin-nation
+Allow: /photographer-directory
+Allow: /careers
+Allow: /candied-nails-account
+Allow: /sitemap.xml
+Allow: /sitemap
+Allow: /robots.txt
+Allow: /googleae0cf956352efa30.html
+Allow: /sitemap-page.html
+
+# Sitemap
+Sitemap: https://www.varsitycheergear.com/sitemap.xml
+
+# Canonical host
+Host: www.varsitycheergear.com
